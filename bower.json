@@ -1,0 +1,19 @@
+{
+  "name": "ember-cli-snap-svg-shim",
+  "main": "snap-svg-shim.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/courthead/ember-cli-snap-svg-shim",
+  "authors": [
+    "Courtland Allen <courtlandallen@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "snap.svg": "~0.3.0"
+  }
+}
