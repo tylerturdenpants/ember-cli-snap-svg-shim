@@ -9,5 +9,5 @@
     });
   }
 
-  generateModule('Snap', { 'default': Snap });
+  generateModule('snap-svg', { 'default': Snap });
 })();

@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-snap-svg-shim",
   "main": "snap-svg-shim.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/courthead/ember-cli-snap-svg-shim",
   "authors": [
     "Courtland Allen <courtlandallen@gmail.com>"
